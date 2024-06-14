@@ -1,0 +1,14 @@
+@font-face{
+    font-family: "Roboto-Bold";
+    src: url(/projeto-login-page/fonts/Roboto-Bold.ttf);
+}
+
+@font-face{
+    font-family:"Roboto-Regular";
+    src: url(/projeto-login-page/fonts/Roboto-Regular.ttf);
+}
+
+@font-face{
+    font-family:"Roboto-Light" ;
+    src: url(/projeto-login-page/fonts/Roboto-Light.ttf);
+}
